@@ -1,0 +1,12 @@
+C:\csharp\Banking\BLL\bin\Debug\net5.0\BLL.deps.json
+C:\csharp\Banking\BLL\bin\Debug\net5.0\BLL.dll
+C:\csharp\Banking\BLL\bin\Debug\net5.0\ref\BLL.dll
+C:\csharp\Banking\BLL\bin\Debug\net5.0\BLL.pdb
+C:\csharp\Banking\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp\Banking\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+C:\csharp\Banking\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+C:\csharp\Banking\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+C:\csharp\Banking\BLL\obj\Debug\net5.0\BLL.dll
+C:\csharp\Banking\BLL\obj\Debug\net5.0\ref\BLL.dll
+C:\csharp\Banking\BLL\obj\Debug\net5.0\BLL.pdb
+C:\csharp\Banking\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
